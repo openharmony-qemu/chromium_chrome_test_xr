@@ -1,2 +1,0 @@
-17:53:17 WARN  - OatPolicyVerifyAnalyser	chromium_chrome_test_xr/	OTHERLICENSEFILE	LICENSE.md	BSD-3-Clause	
-17:53:17 WARN  - OatPolicyVerifyAnalyser	chromium_chrome_test_xr/	OTHERLICENSEFILE	samples/LICENSE.md	BSD-3-Clause	
