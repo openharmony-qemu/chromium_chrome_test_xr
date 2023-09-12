@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_chrome_test_xr",                   # 上游开源软件名全称
+        "Name": "webvr.info",                   # 上游开源软件名全称
         "License":          # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.md",     # 许可证所在文件路径
         "Version Number": "c58ae99b9ff9e2aa4c524633519570bf33536248",
