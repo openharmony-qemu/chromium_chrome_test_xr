@@ -1,10 +1,11 @@
 [
     {
-        "Name": "webvr.info",                   # 上游开源软件名全称
-        "License":          # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE.md",     # 许可证所在文件路径
+        "Name": "webvr.info",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE.md",
         "Version Number": "c58ae99b9ff9e2aa4c524633519570bf33536248",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/toji/webvr.info.git@c58ae99b9ff9e2aa4c524633519570bf33536248",   # 上游软件包发布地址
-        "Description": "Chromium 浏览器实现测试XR。"           # 开源软件功能描述
+        "Owner": "liujixin@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/toji/webvr.info.git@c58ae99b9ff9e2aa4c524633519570bf33536248",
+        "Description": "Chromium 浏览器实现测试XR。"
     }
 ]
