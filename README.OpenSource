@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "webvr.info",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE.md",
+        "Version Number": "c58ae99b9ff9e2aa4c524633519570bf33536248",
+        "Owner": "liujixin@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/toji/webvr.info.git@c58ae99b9ff9e2aa4c524633519570bf33536248",
+        "Description": "Chromium 浏览器实现测试XR。"
+    }
+]
